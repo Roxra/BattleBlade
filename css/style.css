@@ -6,17 +6,17 @@
 }
 
 body{
-  background-color:#B7C8B6;
+  background-color:#D3D3D3;
 }
 
 .pageAbout{
-  background-color:#9fc69f;
+  background-color:#A9A9A9;
   background-size:cover;
   background-position : center;
 }
 
 .pageContact{
-  background-color:#9ee0ca;
+  background-color:#A9A9A9;
   background-size:cover;
   background-position : fixed;
 }
