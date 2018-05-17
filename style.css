@@ -1,0 +1,49 @@
+.nav-pills {
+  font-family: 'Spectral SC', sans-serif;
+  font-size: 2em;
+  background-color:#B7C8B6;
+  width: 100%;
+}
+
+body{
+  background-color:#B7C8B6;
+}
+
+.pageAbout{
+  background-color:#9fc69f;
+  background-size:cover;
+  background-position : center;
+}
+
+.pageContact{
+  background-color:#9ee0ca;
+  background-size:cover;
+  background-position : fixed;
+}
+
+.blueBig{
+  color:white;
+  font-family: 'Spectral SC', sans-serif;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, -1px 1px black, 1px -1px black;
+  font-size:6em
+}
+
+.blueSmall{
+  color:white;
+  font-family: 'Spectral SC', sans-serif;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, -1px 1px black, 1px -1px black;
+  font-size: 3em;
+}
+
+.button{
+  font-size:2em;
+  font-family:'Raleway', sans-serif;
+}
+
+.textbox {
+  border: 2px solid #0DFCA5;
+  padding: 5px;
+  font-family: 'Raleway', sans-serif;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
