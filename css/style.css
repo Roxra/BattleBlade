@@ -47,3 +47,7 @@ body{
   background-position: bottom right;
   background-repeat: no-repeat;
 }
+
+.brand{
+  background: url(http://roxra.github.io/images/Roxra.png) center / contain no-repeat;
+}
