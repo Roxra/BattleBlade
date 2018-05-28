@@ -15,6 +15,12 @@ body{
   background-position : center;
 }
 
+.pageMedia{
+  background-color:#B4B4B4;
+  background-size:cover;
+  background-position : center;
+}
+
 .pageContact{
   background-color:#778899;
   background-size:cover;
